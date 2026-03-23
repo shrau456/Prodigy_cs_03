@@ -33,14 +33,12 @@ Result:
 Strength: Medium (4/7)
 
 Checks:
- ✓ Acceptable length (8+ characters)
- ✓ Contains lowercase letters
- ✗ Missing uppercase letters
- ✓ Contains numbers
- ✗ Missing special characters
+  ✓ Acceptable length (8+ characters)
+  ✓ Contains lowercase letters
+  ✗ Missing uppercase letters
+  ✓ Contains numbers
+  ✗ Missing special characters
 
 Warnings:
- Repeated characters detected (e.g., aaa)
- Common sequence detected (e.g., 123, abc)
-Numbers	+1
-Special Characters	+1
+  Repeated characters detected (e.g., aaa)
+  Common sequence detected (e.g., 123, abc)
