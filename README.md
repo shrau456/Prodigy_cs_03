@@ -25,6 +25,7 @@ Password Complexity Checker is a Python-based command-line application that eval
   - getpass → Secure password input
   - sys → System exit handling
 # Example Output
+```
 Password Complexity Checker
 ------------------------------
 
@@ -43,3 +44,7 @@ Checks:
 Warnings:
 - Repeated characters detected (e.g., aaa)
 - Common sequence detected (e.g., 123, abc)
+```
+# Author 
+- Created by : Suryawanshi Shravani Dnyanoba
+- Task 3 : Password Complexity Checker - Completed 
