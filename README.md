@@ -1,3 +1,4 @@
+# Prodigy_cs_01
 # Password Complexity Checker
 Password Complexity Checker is a Python-based command-line application that evaluates the strength of a password based on modern security standards. It provides a detailed analysis, including strength score, validation checks, and warnings for weak patterns.
 
